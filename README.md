@@ -6,7 +6,7 @@
 
 Sto lavorando su: [Minecraft Server Installer](https://github.com/FoxWorn3365/Minecraft-Server-Installer/) e [HPB](https://dev.hpbdev.cf/)
 
-![immagine](https://amo.githubusercontent.com/d7d9f57cd5be65bdcdf414c5acaa13ec9a04b2d9085c881cc98915071de8ec24/68747470733a2f2f7379726d612e66636f736d612e69742f66696c652f7267625f6c65642f736166652f42454c4c495353494d492e706e67)
+![immagine](https://camo.githubusercontent.com/d7d9f57cd5be65bdcdf414c5acaa13ec9a04b2d9085c881cc98915071de8ec24/68747470733a2f2f7379726d612e66636f736d612e69742f66696c652f7267625f6c65642f736166652f42454c4c495353494d492e706e67)
 <!--
 **FoxWorn3365/FoxWorn3365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
