@@ -5,6 +5,8 @@
 🔭 Programmando in **PHP** e **LOLCODE**
 
 Sto lavorando su: [Minecraft Server Installer](https://github.com/FoxWorn3365/Minecraft-Server-Installer/) e [HPB](https://dev.hpbdev.cf/)
+
+![immagine](https://syrma.fcosma.it/file/rgb_led/safe/BELLISSIMI.png)
 <!--
 **FoxWorn3365/FoxWorn3365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
