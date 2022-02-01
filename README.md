@@ -1,10 +1,8 @@
-## Ciao 👋
+# FoxWorn3365
 
-Sono un programmatore **PHP**
+🔭 Programmando in **PHP** e **LOLCODE**
 
-#### Ho creato:
-[Minecraft Server Installer](https://github.com/FoxWorn3365/Minecraft-Server-Installer/)<br>
-[HPB](https://dev.hpbdev.cf/)
+Sto lavorando su: [Minecraft Server Installer](https://github.com/FoxWorn3365/Minecraft-Server-Installer/) e [HPB](https://dev.hpbdev.cf/)
 <!--
 **FoxWorn3365/FoxWorn3365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
