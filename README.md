@@ -1,5 +1,7 @@
 # FoxWorn3365
 
+🏳️‍🌈 **100% Arcobaleno**
+
 🔭 Programmando in **PHP** e **LOLCODE**
 
 Sto lavorando su: [Minecraft Server Installer](https://github.com/FoxWorn3365/Minecraft-Server-Installer/) e [HPB](https://dev.hpbdev.cf/)
