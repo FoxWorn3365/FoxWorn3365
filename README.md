@@ -1,6 +1,6 @@
 # FoxWorn3365
 
-🏳️‍🌈 **100% Arcobaleno**
+🏳️‍🌈
 
 🔭 Programmando in **PHP** e **LOLCODE**
 
