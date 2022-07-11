@@ -2,12 +2,12 @@
 
 🏳️‍🌈
 
-🔭 Programmando in **PHP** e bestemmiando su **LOLCODE**
-🌱 Al momento sto imparando **PHP** e **JavaScript**
-
-💬 Fammi pure domande su PHP :D
-😄 Pronomi: `he/him`
-⚡ Fun fact: *Il mio server a Genova sta reggendo tipo 20 siti web in PHP*
+🔭 Programmando in **PHP** e bestemmiando su **LOLCODE**<br>
+🌱 Al momento sto imparando **PHP** e **JavaScript**<br>
+<br>
+💬 Fammi pure domande su PHP :D<br>
+😄 Pronomi: `he/him`<br>
+⚡ Fun fact: *Il mio server a Genova sta reggendo tipo 20 siti web in PHP*<br>
 
 
 Sto lavorando su: [FoxCloud](https://github.com/FoxWorn3365/Cloud), [FoxCloud Website](https://github.com/FoxWorn3365/FoxCloud-Website)
