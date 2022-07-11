@@ -2,9 +2,15 @@
 
 🏳️‍🌈
 
-🔭 Programmando in **PHP** e **LOLCODE**
+🔭 Programmando in **PHP** e bestemmiando su **LOLCODE**
+🌱 Al momento sto imparando **PHP** e **JavaScript**
 
-Sto lavorando su: [FoxCloud](https://github.com/FoxWorn3365/Cloud), [FoxCloud Website][https://github.com/FoxWorn3365/FoxCloud-Website)
+💬 Fammi pure domande su PHP :D
+😄 Pronomi: `he/him`
+⚡ Fun fact: *Il mio server a Genova sta reggendo tipo 20 siti web in PHP*
+
+
+Sto lavorando su: [FoxCloud](https://github.com/FoxWorn3365/Cloud), [FoxCloud Website](https://github.com/FoxWorn3365/FoxCloud-Website)
 
 ### Statistiche GitHub
 [![FoxWorn3365's github stats](https://github-readme-stats.vercel.app/api?username=FoxWorn3365)](https://github.com/anuraghazra/github-readme-stats) <br>
