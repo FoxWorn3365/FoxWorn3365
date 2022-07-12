@@ -11,8 +11,8 @@
 
 
 *Sto lavorando su:*<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=Cloud&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)][https://github.com/FoxWorn3365/Cloud]
-[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=FoxCloud-Website&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)[https://github.com/FoxWorn3365/FoxCloud-Website]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=Cloud&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/FoxWorn3365/Cloud)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=FoxCloud-Website&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/FoxWorn3365/FoxCloud-Website)
 
 ### Statistiche GitHub
 ![FoxWorn3365's github stats](https://github-readme-stats.vercel.app/api/?username=FoxWorn3365&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
