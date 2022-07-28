@@ -10,7 +10,7 @@
 ⚡ Fun fact: *Il mio server a Genova sta reggendo tipo 20 siti web in PHP*<br>
 
 
-*Sto lavorando su:*<br>
+**Sto lavorando su:**<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=Cloud&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/FoxWorn3365/Cloud)
 [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=FoxCloud-Website&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/FoxWorn3365/FoxCloud-Website)
 
