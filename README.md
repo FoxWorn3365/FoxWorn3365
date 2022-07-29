@@ -8,7 +8,7 @@
 💬 Fammi pure domande su PHP :D<br>
 😄 Pronomi: `he/him`<br>
 ⚡ Fun fact: *Il mio server a Genova sta reggendo tipo 20 siti web in PHP*<br>
-
+📧 Email: `me@fcosma.it`
 
 **Sto lavorando su:**<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoxWorn3365&repo=Cloud&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/FoxWorn3365/Cloud)
