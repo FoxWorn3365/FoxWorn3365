@@ -4,7 +4,7 @@ I'm italian so 🍕🍝🇮🇹. Epic.<br><br>
 Anyways I also love trains so if you want to ask me about the Italian Railway system let's DM me on Discord! `@foxworn`
 
 ## Most important project
-[![Shopkeepers](https://raw.githubusercontent.com/FoxWorn3365/Shopkeepers/resources/plugin-banner.png)](https://github.com/FoxWorn336/Shopkeepers)
+[![Shopkeepers](https://raw.githubusercontent.com/FoxWorn3365/Shopkeepers/resources/plugin-banner.png)](https://github.com/FoxWorn3365/Shopkeepers)
 
 ## Skills
 <img src='https://raw.githubusercontent.com/FoxWorn3365/FoxWorn3365/main/php.png' style='height: 50px'><img src='https://raw.githubusercontent.com/FoxWorn3365/FoxWorn3365/main/html5.png' style='height: 50px'><img src='https://raw.githubusercontent.com/FoxWorn3365/FoxWorn3365/main/jslogo.png' style='height: 50px'>
