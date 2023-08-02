@@ -1,6 +1,6 @@
 # FoxWorn3365
 I'm a **PHP** and **Js** developer specialized in the development of PocketMine-MP plugins and bots for Discord with DiscordPHP.<br>
-I'm italian so 🍕🍝🇮🇹. Epic.<br>>br>
+I'm italian so 🍕🍝🇮🇹. Epic.<br><br>
 Anyways I also love trains so if you want to ask me about the Italian Railway system let's DM me on Discord! `@foxworn`
 
 ## Most important project
